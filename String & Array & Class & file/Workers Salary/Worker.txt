@@ -1,0 +1,9 @@
+539 Berk_Tas 250 15 PT
+846 Elif_Korel 8300 Y FT
+452 Lale_Almaz 12000 N FT
+190 Burak_Citak 375 28 PT
+378 Tan_Duyar 7000 Y FT
+230 Alp_Toreli 9800 N FT
+134 Yaprak_Esin 525 30 PT
+400 Ege_Siperci 9000 N FT
+210 Kemal_Tok 8500 Y FT

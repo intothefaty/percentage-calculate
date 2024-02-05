@@ -1,0 +1,12 @@
+Broccoli V
+Lily F
+Cucumber V
+Rose F
+Lotus F
+Cabbage V
+Anemone F
+Aster F
+Patato V
+Daisy F
+Tomato V
+Tulip F

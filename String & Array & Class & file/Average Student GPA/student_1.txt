@@ -1,0 +1,9 @@
+7846,Ali,Kizilirmak,67,70,82
+1046,Zeynep,Kabakci,34,44,37
+8452,Burc,Saltik,91,80,95
+6190,Nur,Meric,76,45,71
+3378,Merve,Kara,55,60,78
+5230,Can,Tokac,80,65,98
+2134,Irem,Boluk,80,90,100
+5400,Elif,Tore,54,60,89
+4210,Burcu,Gurel,34,64,37
